@@ -22,14 +22,14 @@ limitations under the License.
    --background-elevated: #222;
    --background-hover: rgba(255, 255, 255, 0.1);
    --background-light: #AAA;
-   --background-bright: #FFF;
+   --background-bright: #777;
    --sidebar-background: #1a2129;
 
    --border-dim: #666;
    --border-bright: var(--primary);
 
    --text: #CCC;
-   --text-bright: #FFF;
+   --text-bright: #777;
    --text-alt: var(--accent);
    --text-special: var(--primary);
 
